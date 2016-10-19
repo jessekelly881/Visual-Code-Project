@@ -1,0 +1,16 @@
+
+CodeScene/View:
+ ✔ Stop object from being selected when node is clicked @done (16-07-04 23:00)
+ ☐ Keep distance between objects & lines when pasted
+ ☐ Makes lines move & resize when objects are moved
+ ☐ When an object is destroyed, destroy all connections to and from it
+ ☐ Make connection lines actually connect
+ ☐ Allow objects to actually be added to the canvas
+ ✔ Create image of the scene  @done (16-07-04 23:55)
+ ☐ Make Undo and Redo functionality actually work
+ ☐ Zoom/Panning
+ ☐ Fix paste location
+
+BezierLine:
+  ☐ Figure out control points..
+

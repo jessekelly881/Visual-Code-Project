@@ -1,0 +1,34 @@
+{
+	"Add": {
+		"width": "80",
+		"height": "80",
+		"object_file": "math.py",
+		"object_class": "Add",
+		
+		"variables": {
+			"x":{
+				"datatype": "num", 
+				"io":"input", 
+				"default": "0", 
+				"default_visibility": "visable", 
+				"tooltip": "x of type num"
+			},
+
+			"y":{
+				"datatype": "num", 
+				"io":"input", 
+				"default": "0", 
+				"default_visibility": "visable", 
+				"tooltip": "y of type num"
+			},
+
+			"x+y":{
+				"datatype": "num", 
+				"io":"output", 
+				"default": "0", 
+				"default_visibility": "visable", 
+				"tooltip": "sum of x and y"
+			}
+		}
+	}
+}

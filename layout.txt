@@ -1,0 +1,12 @@
+GUI	
+	CodeScene(QGraphicsScene)
+	CodeVisual(QGraphicsView)
+	Canvas Data:
+		-Logical Data
+		-Visual Data
+	CodeObject(QGraphicsItem)
+
+Global Settings
+Global Data
+
+Backend
